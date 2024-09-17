@@ -1,0 +1,17 @@
+.container {
+    width: 1249px;
+    height: 376px;
+    text-align: center; 
+    margin-left: 40px;
+    border-radius: 30px;
+    background-color: #22F4DA;
+ 
+}
+
+p {
+    color: black; 
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 700;
+    
+}
